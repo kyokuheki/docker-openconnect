@@ -67,3 +67,6 @@ chmod +x wrapper-vpnc-script
 
 docker run -it --rm --name=openconnect kyokuheki/openconnect --script wrapper-vpnc-script vpnocserv.example.com 
 ```
+
+see https://gitlab.com/openconnect/vpnc-scripts/-/blob/master/vpnc-script
+
